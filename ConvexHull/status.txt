@@ -1,0 +1,4 @@
+Anthony Yanik - Project 1
+The program works as required. It compiles/runs and the output matches the correct
+format that was asked for. I put comments where I saw fit, and tried my best to keep everything 
+organized. My name, along with the file name is in every class. 
