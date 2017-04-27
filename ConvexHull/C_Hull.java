@@ -1,5 +1,4 @@
 /*
-	Anthony Yanik
 	Comp 282 
 	Computing Convex Hull then checking too see if 
 	test points are inside or outside of hull
