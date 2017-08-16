@@ -1,6 +1,6 @@
 /*
 	Comp 282 
-	Computing Convex Hull then checking too see if 
+	Computing Convex Hull then checking to see if 
 	test points are inside or outside of hull
 	February 2017
 	
